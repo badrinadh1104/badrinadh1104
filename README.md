@@ -1,6 +1,11 @@
 ### Hi there 👋
-I am badrinadh,
-i'm currently learning python course from devlncept
+- I am badrinadh,
+
+- 🔭 i'm currently working on Machinelearning Project
+
+- 🌱i'm currently learning Python Progarmming from Devlncept
+
+- 🤔 I’m looking for help with ML project
 <!--
 **badrinadh1104/badrinadh1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
