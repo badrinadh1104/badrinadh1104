@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am badrinadh,
+i'm currently learning python course from devlncept
 <!--
 **badrinadh1104/badrinadh1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
