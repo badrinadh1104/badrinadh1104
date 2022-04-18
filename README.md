@@ -1,12 +1,12 @@
 ### Hi there 👋
 - I am badrinadh,
 
-- 🔭 i'm currently working on Machinelearning Project
+<!-- - 🔭 i'm currently working on Machinelearning Project
 
 - 🌱i'm currently learning Python Progarmming from Devlncept
 
 - 🤔 I’m looking for help with ML project
-
+ -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/badri1104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="badri1104" height="30" width="40" /></a>
